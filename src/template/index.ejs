@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Node Server</title>
+</head>
+<body>
+
+<% files.forEach(function(name){ %>
+  <a href="../<%= dir %>/<%= name %>"> <%= name %></a><br>
+<% }) %>
+
+</body>
+</html>
