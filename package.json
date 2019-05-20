@@ -1,0 +1,26 @@
+{
+  "name": "nodestaticserver",
+  "version": "1.0.0",
+  "description": "Node 静态资源服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tong-Jing/NodeStaticServer.git"
+  },
+  "keywords": [
+    "static",
+    "server"
+  ],
+  "author": "tongjing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tong-Jing/NodeStaticServer/issues"
+  },
+  "homepage": "https://github.com/Tong-Jing/NodeStaticServer#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
+}
